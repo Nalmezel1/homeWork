@@ -1,5 +1,5 @@
-open inputFile,"<input.java" or die "Ошибка открытия файла input.java:$!";
-open outputFile,">output.java" or die "Ошибка открытия файла output.java:$!";
+open inputFile,"<input.java" or die "РћС€РёР±РєР° РѕС‚РєСЂС‹С‚РёСЏ С„Р°Р№Р»Р° input.java:$!";
+open outputFile,">output.java" or die "РћС€РёР±РєР° РѕС‚РєСЂС‹С‚РёСЏ С„Р°Р№Р»Р° output.java:$!";
 
 @_=<inputFile>;
 close inputFile or die $!;

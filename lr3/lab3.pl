@@ -1,5 +1,5 @@
-open inputFile,"<lab3input.txt" or die "Ошибка открытия файла lab3input.txt:$!";
-open outputFile,">lab3output.txt" or die "Ошибка открытия файла lab3output.txt:$!";
+open inputFile,"<lab3input.txt" or die "РћС€РёР±РєР° РѕС‚РєСЂС‹С‚РёСЏ С„Р°Р№Р»Р° lab3input.txt:$!";
+open outputFile,">lab3output.txt" or die "РћС€РёР±РєР° РѕС‚РєСЂС‹С‚РёСЏ С„Р°Р№Р»Р° lab3output.txt:$!";
 
 @_=<inputFile>;
 
