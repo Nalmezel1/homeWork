@@ -1,0 +1,8 @@
+
+C:/perlHomework/lab5/2.txt
+C:/perlHomework/lab5/321.txt
+C:/perlHomework/lab5/lab5_2.pl
+C:/perlHomework/lab5/asf/asd.txt
+C:/perlHomework/lab5/asf/ads/dde.txt
+C:/perlHomework/lab5/tmp/1.txt
+C:/perlHomework/lab5/tmp/3.txt
